@@ -1,0 +1,17 @@
+ul {
+  list-style-type: none;
+}
+
+.main-image {
+  height: 600px;
+  background-image: url(../img/slider-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.image-content-container {
+margin: 200px auto;
+margin-bottom: 300px;
+}
+
+
